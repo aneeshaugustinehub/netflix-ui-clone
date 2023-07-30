@@ -6,22 +6,20 @@ function RowPost() {
     <div className='row'>
         <h2>Title</h2>
         <div className="posters">
-            <img className='poster' src="./aa.jpg" alt="poster"/>
-            <img className='poster' src="./aa.jpg" alt="poster"/>
-            <img className='poster' src="./aa.jpg" alt="poster"/>
-            <img className='poster' src="./aa.jpg" alt="poster"/>
-            <img className='poster' src="./aa.jpg" alt="poster"/>
-            <img className='poster' src="./aa.jpg" alt="poster"/>
-            <img className='poster' src="./aa.jpg" alt="poster"/>
-            <img className='poster' src="./aa.jpg" alt="poster"/>
-            <img className='poster' src="./aa.jpg" alt="poster"/>
-            <img className='poster' src="./aa.jpg" alt="poster"/>
-            <img className='poster' src="./aa.jpg" alt="poster"/>
-            <img className='poster' src="./aa.jpg" alt="poster"/>
-            <img className='poster' src="./aa.jpg" alt="poster"/>
-            <img className='poster' src="./aa.jpg" alt="poster"/>
-            <img className='poster' src="./aa.jpg" alt="poster"/>
-            <img className='poster' src="./aa.jpg" alt="poster"/>
+            <img className='poster' src="./mv_banner.jpg" alt="poster"/>
+            <img className='poster' src="./mv_banner.jpg" alt="poster"/>
+            <img className='poster' src="./mv_banner.jpg" alt="poster"/>
+            <img className='poster' src="./mv_banner.jpg" alt="poster"/>
+            <img className='poster' src="./mv_banner.jpg" alt="poster"/>
+            <img className='poster' src="./mv_banner.jpg" alt="poster"/>
+            <img className='poster' src="./mv_banner.jpg" alt="poster"/>
+            <img className='poster' src="./mv_banner.jpg" alt="poster"/>
+            <img className='poster' src="./mv_banner.jpg" alt="poster"/>
+            <img className='poster' src="./mv_banner.jpg" alt="poster"/>
+            <img className='poster' src="./mv_banner.jpg" alt="poster"/>
+            <img className='poster' src="./mv_banner.jpg" alt="poster"/>
+            <img className='poster' src="./mv_banner.jpg" alt="poster"/>
+  
         </div>
     </div>
   )
