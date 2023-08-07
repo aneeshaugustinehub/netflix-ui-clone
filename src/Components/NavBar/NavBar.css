@@ -2,11 +2,11 @@
   position: fixed;
   top: 0;
   width: 100%;
-  height: 30px;
+  height: 15px;
   padding: 20px;
   display: flex;
   justify-content: space-between;
-  background-color: #111;
+  background-color: #3c2222;
 }
 
 .logo {
